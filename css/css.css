@@ -1,0 +1,79 @@
+body {
+	background-color: #530e53;
+}
+#logomarca {
+	margin: 3% auto;
+	text-align: center;
+	display: block;
+	width: 320px;
+}
+#logo {
+	width: 200px;
+	height: 200px;
+	background-color: #e4c604;
+	padding: 40px;
+}
+
+.q {
+	width: 40px;
+	height: 40px;
+	background-color: blue;
+	float: left;
+}
+.g {color: #faba51}
+.b {color: #fbdb2d}
+
+.q1 {background-color: #d28601}
+.q2 {background-color: #c27f09}
+.q3 {background-color: #d28601}
+.q4 {background-color: #df9411}
+.q5 {background-color: #d28601}
+.q6 {background-color: #c27f09}
+.q7 {background-color: #5c2a0c}
+.q8 {background-color: #5e2c0e}
+.q9 {background-color: #5c2402}
+.q10 {background-color: #e59812}
+.q11 {background-color: #d28601}
+.q12 {background-color: #652d0c}
+.q13 {background-color: #4a2108}
+.q14 {background-color: #632a08}
+.q15 {background-color: #e5a028}
+.q16 {background-color: #dc9416}
+.q17 {background-color: #632703}
+.q18 {background-color: #5a290c}
+.q19 {background-color: #532407}
+.q20 {background-color: #d88b04}
+.q21 {background-color: #d28601}
+.q22 {background-color: #e59812}
+.q23 {background-color: #d28601}
+.q24 {background-color: #e5a028}
+.q25 {background-color: #e59812}
+
+p#nome {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 82px;
+	margin: 10px;
+	margin-left: -78px;
+}
+p.slogan {
+	font-family: 'Ubuntu', sans-serif;
+	margin-left: -42px;
+	color: #fff;
+	width: 440px;
+/*	color: #701a02;*/
+}
+p.sloganp {
+	font-size: 18px;
+	color: #ffbcba;
+/*	margin-top: -20px;*/
+}
+p.slogang {
+	font-size: 36px;
+	margin-top: -20px;
+}
+footer p {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.2em;
+	color: #a66fa6;
+	text-align: center;
+}
